@@ -1,0 +1,8 @@
+Flask==2.2.0
+Flask-SQLAlchemy
+gunicorn==19.9.0
+pandas
+requests
+scikit-learn==0.23.2
+scipy
+protobuf==3.20.*
